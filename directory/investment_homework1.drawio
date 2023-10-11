@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T11:59:16.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="H7CZfi7eCh8sZdWCmLOj" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T12:00:18.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="cdecBTuY4gjGHiJItkJk" version="22.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2291" dy="1401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X30ZEsrO-69H-rnyG2S6-1810" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;普通可转债：&lt;/span&gt;截至2018年6月27日,市场上留存的普通公募可转债(不含已发行未上市的可转 债)共有71只,私募共6只。就公募可转债而言,债券余额约1472.7亿元。以2017年数 据为准,可转债日均成交量约8.1亿,日均成交额约9.2亿元。&lt;/li&gt;&lt;li&gt;可交换债：截至2018年6月27日,市场上留存的公募可交换债共有15支,私募共有150只。 公募可交换债债券余额约739亿元,而私募余额约1405.7亿元。以2017年为准,公募与 私募可交换债合并日均成交量为0.03亿,日均成交额为3.67亿元。&lt;/li&gt;&lt;li&gt;分离交易可转债：已发行的分离交易可转债至今已全部退市,当前市场没有存量。&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="270" width="551" height="130.5" as="geometry" />
+          <mxGeometry x="1230" y="279" width="310" height="130.5" as="geometry" />
         </mxCell>
         <mxCell id="X30ZEsrO-69H-rnyG2S6-1812" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1776" target="X30ZEsrO-69H-rnyG2S6-1810">
           <mxGeometry relative="1" as="geometry">

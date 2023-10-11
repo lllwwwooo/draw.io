@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T11:29:37.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="vGu3xkg4k8un-TKPwx0I" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T11:30:06.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="z9GWg9Dn7YPNo-h-ehFH" version="22.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1122" dy="1401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -110,13 +110,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X30ZEsrO-69H-rnyG2S6-1780" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;可转换债券(Convertible Bond)是一种可以转换为发行公司股票的债券,通常具有较低的票面利率。&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="915" y="-10" width="330" height="105" as="geometry" />
+          <mxGeometry x="870" y="20" width="330" height="105" as="geometry" />
         </mxCell>
         <mxCell id="X30ZEsrO-69H-rnyG2S6-1782" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;优先配售&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;网上发行&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;网下发行&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-50" width="120" height="70" as="geometry" />
+          <mxGeometry x="230" y="-75" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="X30ZEsrO-69H-rnyG2S6-1788" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;转股条款&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;下修条款&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;赎回条款&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;回售条款&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="90" y="60.5" width="120" height="129.5" as="geometry" />
+          <mxGeometry x="65" y="50" width="120" height="129.5" as="geometry" />
         </mxCell>
         <mxCell id="X30ZEsrO-69H-rnyG2S6-1790" value="主要类型" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="680" y="60" width="150" height="60" as="geometry" />
@@ -129,7 +129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X30ZEsrO-69H-rnyG2S6-1795" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;普通可转债&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;可交换债&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;分离交易可转债&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="665" y="-70" width="195" height="80" as="geometry" />
+          <mxGeometry x="770" y="-80" width="195" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X30ZEsrO-69H-rnyG2S6-1798" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1767" target="X30ZEsrO-69H-rnyG2S6-1782">
           <mxGeometry relative="1" as="geometry">
@@ -156,7 +156,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X30ZEsrO-69H-rnyG2S6-1803" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="495" y="-30" width="150" height="60" as="geometry" />
+          <mxGeometry x="495" y="20" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X30ZEsrO-69H-rnyG2S6-1804" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="X30ZEsrO-69H-rnyG2S6-1803" source="1764">
           <mxGeometry relative="1" as="geometry">

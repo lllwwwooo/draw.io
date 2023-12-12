@@ -1,9 +1,138 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T07:33:37.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.7" etag="IjgoYZf1bDxrpZF2Pz2P" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T07:47:12.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ZlvD3sF_UiencwaeMcUq" version="22.1.7" type="github">
   <diagram name="第 1 页" id="7ASoYSAh4vBGIjOfBnS5">
-    <mxGraphModel>
+    <mxGraphModel dx="829" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="更新clockHand" treeRoot="1" id="Qf74FRsNPgqkgJPY82jd-1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="117" y="36" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="检查是否有效" treeRoot="1" id="Qf74FRsNPgqkgJPY82jd-2">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="117" y="125" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="检查最近是否被访问" treeRoot="1" id="Qf74FRsNPgqkgJPY82jd-3">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="117" y="204" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="检查页面是否被固定" treeRoot="1" id="Qf74FRsNPgqkgJPY82jd-4">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="117" y="301" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="使用该帧；检查是否有修改，如果有，写回磁盘" treeRoot="1" id="Qf74FRsNPgqkgJPY82jd-5">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="117" y="396" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="删除对应哈希表的项" treeRoot="1" id="Qf74FRsNPgqkgJPY82jd-6">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="117" y="488" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qf74FRsNPgqkgJPY82jd-1" target="Qf74FRsNPgqkgJPY82jd-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="128" y="284" as="sourcePoint" />
+            <mxPoint x="178" y="234" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qf74FRsNPgqkgJPY82jd-2" target="Qf74FRsNPgqkgJPY82jd-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="128" y="284" as="sourcePoint" />
+            <mxPoint x="178" y="234" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qf74FRsNPgqkgJPY82jd-3" target="Qf74FRsNPgqkgJPY82jd-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="128" y="283" as="sourcePoint" />
+            <mxPoint x="178" y="233" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qf74FRsNPgqkgJPY82jd-4" target="Qf74FRsNPgqkgJPY82jd-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="128" y="515" as="sourcePoint" />
+            <mxPoint x="178" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qf74FRsNPgqkgJPY82jd-5" target="Qf74FRsNPgqkgJPY82jd-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="128" y="515" as="sourcePoint" />
+            <mxPoint x="178" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="直接用该帧，退出" treeRoot="1" id="Qf74FRsNPgqkgJPY82jd-14">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="284" y="125" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qf74FRsNPgqkgJPY82jd-2" target="Qf74FRsNPgqkgJPY82jd-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="213" y="369" as="sourcePoint" />
+            <mxPoint x="263" y="319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="计数&lt;span style=&quot;background-color: initial;&quot;&gt;，若页面被固定的个数等于缓冲池帧数。抛出警告&lt;/span&gt;" treeRoot="1" id="Qf74FRsNPgqkgJPY82jd-18">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-97" y="296.5" width="139" height="69" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qf74FRsNPgqkgJPY82jd-4" target="Qf74FRsNPgqkgJPY82jd-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="118" y="367" as="sourcePoint" />
+            <mxPoint x="168" y="317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qf74FRsNPgqkgJPY82jd-18" target="Qf74FRsNPgqkgJPY82jd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="367" as="sourcePoint" />
+            <mxPoint x="115" y="317" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-180" y="216" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-21" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="162" y="361" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-22" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="229" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="设访问问位为false" treeRoot="1" id="Qf74FRsNPgqkgJPY82jd-23">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-84" y="204" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qf74FRsNPgqkgJPY82jd-3" target="Qf74FRsNPgqkgJPY82jd-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8" y="310" as="sourcePoint" />
+            <mxPoint x="58" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qf74FRsNPgqkgJPY82jd-23" target="Qf74FRsNPgqkgJPY82jd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8" y="310" as="sourcePoint" />
+            <mxPoint x="58" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-139" y="172" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-27" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="177" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-29" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="169" y="266.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-30" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="57" y="296.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf74FRsNPgqkgJPY82jd-31" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="52" y="204" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

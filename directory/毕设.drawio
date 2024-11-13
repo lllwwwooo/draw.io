@@ -69,7 +69,7 @@
         <mxCell id="XJMQIK7YwNs6-fbvPwkj-63" value="数据库" style="swimlane;startSize=23;" vertex="1" parent="XJMQIK7YwNs6-fbvPwkj-23">
           <mxGeometry x="51.625" y="280" width="133.75" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XJMQIK7YwNs6-fbvPwkj-69" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="XJMQIK7YwNs6-fbvPwkj-63">
+        <mxCell id="XJMQIK7YwNs6-fbvPwkj-69" value="&lt;span style=&quot;font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.25px; text-align: start; white-space-collapse: preserve;&quot;&gt;向量匹配与检索&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="XJMQIK7YwNs6-fbvPwkj-63">
           <mxGeometry x="20" y="40" width="96.88" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XJMQIK7YwNs6-fbvPwkj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XJMQIK7YwNs6-fbvPwkj-11" target="XJMQIK7YwNs6-fbvPwkj-17">

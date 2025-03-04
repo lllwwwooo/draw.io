@@ -40,6 +40,11 @@
             <mxGeometry x="38" y="45" width="109" height="33" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="Kafka server" treeRoot="1" id="r_Jpmp6yM1Su2GTmglGd-38">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="r_Jpmp6yM1Su2GTmglGd-18">
+            <mxGeometry x="39.75" y="95" width="109" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="r_Jpmp6yM1Su2GTmglGd-27" value="" style="swimlane;startSize=0;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="r_Jpmp6yM1Su2GTmglGd-18">
           <mxGeometry x="25" y="150" width="146.5" height="101" as="geometry" />
         </mxCell>

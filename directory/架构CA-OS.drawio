@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="wGAzSOdT4kqdzCxaNdu8">
-    <mxGraphModel dx="1248" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1980" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,9 +74,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cpremFlHdHI3eAPyiUC--17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;ertn跳转到例外处理并返回&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; letter-spacing: 0.2px; text-align: left; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;控制状态寄存器CRMD、PRMD、ESTAT、ERA、EENTRY、SAVE0~3&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cpremFlHdHI3eAPyiUC--16">
+        <mxCell id="cpremFlHdHI3eAPyiUC--17" value="CPU 自动跳转到 &lt;code data-end=&quot;261&quot; data-start=&quot;253&quot;&gt;EENTRY&lt;/code&gt; 寄存器存储的异常入口地址，硬件自动保存现场&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;内核在 &lt;/span&gt;&lt;code style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;847&quot; data-start=&quot;839&quot;&gt;EENTRY&lt;/code&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; 指定的地址开始执行异常处理函数&lt;/span&gt;&lt;div&gt;&lt;div&gt;使用 &lt;code data-end=&quot;980&quot; data-start=&quot;974&quot;&gt;ertn&lt;/code&gt; 返回异常前的上下文&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cpremFlHdHI3eAPyiUC--16">
           <mxGeometry x="0.0124" y="4" relative="1" as="geometry">
-            <mxPoint x="-1" y="-226" as="offset" />
+            <mxPoint x="-12" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="异常处理" treeRoot="1" id="5M__yOeY1i1e89L5_nh--29">
@@ -89,28 +89,20 @@
             <mxGeometry x="370" y="230" width="70" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="cpremFlHdHI3eAPyiUC--11" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" target="5M__yOeY1i1e89L5_nh--15">
+        <mxCell id="cpremFlHdHI3eAPyiUC--11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" target="5M__yOeY1i1e89L5_nh--15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="280" as="sourcePoint" />
             <mxPoint x="600" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="560" y="330" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cpremFlHdHI3eAPyiUC--12" value="TLB维护指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cpremFlHdHI3eAPyiUC--11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="67" y="10" as="offset" />
+            <mxPoint x="18" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="虚拟内存" treeRoot="1" id="5M__yOeY1i1e89L5_nh--31">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
             <mxGeometry x="470" y="230" width="70" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="进程管理" treeRoot="1" id="5M__yOeY1i1e89L5_nh--32">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-            <mxGeometry x="570" y="230" width="70" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="文件系统" treeRoot="1" id="5M__yOeY1i1e89L5_nh--33">

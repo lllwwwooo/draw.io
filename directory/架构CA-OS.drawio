@@ -52,7 +52,12 @@
           </mxCell>
         </UserObject>
         <mxCell id="cpremFlHdHI3eAPyiUC--16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5M__yOeY1i1e89L5_nh--29" target="cpremFlHdHI3eAPyiUC--13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="340" />
+              <mxPoint x="520" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cpremFlHdHI3eAPyiUC--17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;CPU 自动跳转到 &lt;code data-end=&quot;261&quot; data-start=&quot;253&quot;&gt;EENTRY&lt;/code&gt; 寄存器存储的异常入口地址，硬件自动保存现场&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;内核在 &lt;/span&gt;&lt;code style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;847&quot; data-start=&quot;839&quot;&gt;EENTRY&lt;/code&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; 指定的地址开始执行异常处理函数&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;使用 &lt;code data-end=&quot;980&quot; data-start=&quot;974&quot;&gt;ertn&lt;/code&gt; 返回异常前的上下文&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cpremFlHdHI3eAPyiUC--16">
           <mxGeometry x="0.0124" y="4" relative="1" as="geometry">

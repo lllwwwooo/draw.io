@@ -7,7 +7,7 @@
         <mxCell id="5M__yOeY1i1e89L5_nh--1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="145" y="350" width="725" height="90" as="geometry" />
         </mxCell>
-        <UserObject label="CPU" treeRoot="1" id="5M__yOeY1i1e89L5_nh--11">
+        <UserObject label="CPU（简单指令集MIPS CPU→流水线 MIPS CPU）" treeRoot="1" id="5M__yOeY1i1e89L5_nh--11">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
             <mxGeometry x="180" y="370" width="350" height="50" as="geometry" />
           </mxCell>

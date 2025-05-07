@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="wGAzSOdT4kqdzCxaNdu8">
-    <mxGraphModel dx="1980" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,6 +65,19 @@
             <mxGeometry x="170" y="230" width="70" height="50" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="cpremFlHdHI3eAPyiUC--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5M__yOeY1i1e89L5_nh--29" target="cpremFlHdHI3eAPyiUC--13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="340" />
+              <mxPoint x="540" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpremFlHdHI3eAPyiUC--17" value="ertn跳转到例外处理并返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cpremFlHdHI3eAPyiUC--16">
+          <mxGeometry x="0.0124" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="异常处理" treeRoot="1" id="5M__yOeY1i1e89L5_nh--29">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
             <mxGeometry x="270" y="230" width="70" height="50" as="geometry" />
@@ -86,7 +99,7 @@
         </mxCell>
         <mxCell id="cpremFlHdHI3eAPyiUC--12" value="TLB维护指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cpremFlHdHI3eAPyiUC--11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="67" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="虚拟内存" treeRoot="1" id="5M__yOeY1i1e89L5_nh--31">

@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="wGAzSOdT4kqdzCxaNdu8">
-    <mxGraphModel dx="977" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1980" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5M__yOeY1i1e89L5_nh--1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="145" y="350" width="815" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="5M__yOeY1i1e89L5_nh--6" value="LoongArch 实验箱&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="450" y="450" width="140" height="30" as="geometry" />
+          <mxGeometry x="145" y="350" width="725" height="90" as="geometry" />
         </mxCell>
         <UserObject label="CPU" treeRoot="1" id="5M__yOeY1i1e89L5_nh--11">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -33,11 +30,6 @@
             <mxGeometry x="560" y="370" width="70" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="异常处理控制器" treeRoot="1" id="5M__yOeY1i1e89L5_nh--18">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="430" y="380" width="90" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="寄存器堆" treeRoot="1" id="5M__yOeY1i1e89L5_nh--19">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="260" y="380" width="70" height="30" as="geometry" />
@@ -53,11 +45,6 @@
             <mxGeometry x="747" y="370" width="80" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="闪存" treeRoot="1" id="5M__yOeY1i1e89L5_nh--22">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-            <mxGeometry x="850" y="370" width="80" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="5M__yOeY1i1e89L5_nh--24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="320" as="sourcePoint" />
@@ -70,10 +57,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5M__yOeY1i1e89L5_nh--26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="145" y="210" width="815" height="90" as="geometry" />
+          <mxGeometry x="145" y="210" width="725" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5M__yOeY1i1e89L5_nh--27" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;color: rgb(51, 0, 0);&quot;&gt;教学操作系统内核&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="180" width="120" height="20" as="geometry" />
+        <mxCell id="5M__yOeY1i1e89L5_nh--27" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;color: rgb(51, 0, 0);&quot;&gt;操作系统实验&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="245" width="90" height="20" as="geometry" />
         </mxCell>
         <UserObject label="进程管理" treeRoot="1" id="5M__yOeY1i1e89L5_nh--28">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -110,11 +97,18 @@
             <mxGeometry x="770" y="230" width="70" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="I/O" treeRoot="1" id="5M__yOeY1i1e89L5_nh--35">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-            <mxGeometry x="870" y="230" width="70" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="cpremFlHdHI3eAPyiUC--1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="145" y="480" width="725" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5M__yOeY1i1e89L5_nh--6" value="LoongArch 实验箱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="510" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpremFlHdHI3eAPyiUC--3" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;color: rgb(51, 0, 0);&quot;&gt;计算机体系结构实验&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="385" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cpremFlHdHI3eAPyiUC--4" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;color: rgb(51, 0, 0);&quot;&gt;硬件平台&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2.5" y="510" width="65" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

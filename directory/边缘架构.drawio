@@ -17,7 +17,7 @@
           <mxGeometry x="-1511" y="350" width="457.5" height="240" as="geometry" />
         </mxCell>
         <mxCell id="XKiLcq2Avilo9yYhWQPy-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Cloud&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1790" y="500" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1820" y="500" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XKiLcq2Avilo9yYhWQPy-27" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#FFFFFF;strokeColor=#330000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" vertex="1" parent="1">
           <mxGeometry x="-1650" y="920" width="100" height="77" as="geometry" />
@@ -29,10 +29,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XKiLcq2Avilo9yYhWQPy-60" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Edge Nodes&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1790" y="700" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1820" y="715" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XKiLcq2Avilo9yYhWQPy-61" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Edge Devices&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1790" y="890" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1820" y="948.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XKiLcq2Avilo9yYhWQPy-66" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1411" y="455" width="278.75" height="100" as="geometry" />

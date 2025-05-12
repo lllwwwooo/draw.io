@@ -217,7 +217,7 @@
             <mxGeometry x="370" y="400" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Flannel" treeRoot="1" id="cdhoti3zNUk08x1nZgup-7">
+        <UserObject label="Flannel&lt;div&gt;（默认CNI）&lt;/div&gt;" treeRoot="1" id="cdhoti3zNUk08x1nZgup-7">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
             <mxGeometry x="510" y="400" width="120" height="60" as="geometry" />
           </mxCell>

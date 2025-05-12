@@ -430,14 +430,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="V7q6_7Qc3Q1Zc68tpO51-1" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;用户访问层" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="V7q6_7Qc3Q1Zc68tpO51-1" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;用户访问层" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="520" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V7q6_7Qc3Q1Zc68tpO51-2" value="用户图形界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="290" width="320" height="40" as="geometry" />
+        <mxCell id="V7q6_7Qc3Q1Zc68tpO51-2" value="用户图形界面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V7q6_7Qc3Q1Zc68tpO51-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;请求管理层" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="V7q6_7Qc3Q1Zc68tpO51-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;请求管理层" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V7q6_7Qc3Q1Zc68tpO51-4" value="&lt;font face=&quot;Helvetica&quot;&gt;执行路由&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="180" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V7q6_7Qc3Q1Zc68tpO51-5" value="负载均衡" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V7q6_7Qc3Q1Zc68tpO51-6" value="服务发现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

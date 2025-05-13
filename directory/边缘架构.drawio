@@ -640,8 +640,8 @@
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-9" target="T2TVqLmSkBjjPaNy2yG9-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-9" value="检测到移动" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="620" width="80" height="40" as="geometry" />
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-9" value="检测行人&lt;div&gt;是否移动&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="610" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-19" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-12" target="T2TVqLmSkBjjPaNy2yG9-17">
           <mxGeometry relative="1" as="geometry">
@@ -682,8 +682,8 @@
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-21" target="T2TVqLmSkBjjPaNy2yG9-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-21" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;打包&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;帧图像&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;和时间戳&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="700" width="80" height="40" as="geometry" />
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-21" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;若有移动&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;打包&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;帧图像&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;和时间戳&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="700" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-23" target="T2TVqLmSkBjjPaNy2yG9-32">
           <mxGeometry relative="1" as="geometry" />
@@ -736,8 +736,10 @@
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-36" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;发送HTTP 请求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="780" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-41" target="T2TVqLmSkBjjPaNy2yG9-44">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-41" target="T2TVqLmSkBjjPaNy2yG9-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-54" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-41" target="T2TVqLmSkBjjPaNy2yG9-36">
           <mxGeometry relative="1" as="geometry">
@@ -757,26 +759,24 @@
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-42" value="图像保存服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="490" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-44" target="T2TVqLmSkBjjPaNy2yG9-46">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-57" target="T2TVqLmSkBjjPaNy2yG9-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="640" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-44" value="&lt;div&gt;YOLOv8&lt;/div&gt;&lt;div&gt;检测行人&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="600" width="80" height="40" as="geometry" />
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-46" value="若不重复&lt;div&gt;保存图像&lt;/div&gt;&lt;div&gt;记录元数据&lt;/div&gt;&lt;div&gt;添加特征缓存&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="680" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-46" target="T2TVqLmSkBjjPaNy2yG9-48">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-46" target="T2TVqLmSkBjjPaNy2yG9-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="760" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-46" value="OSNet提取特征向量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="660" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-48" target="T2TVqLmSkBjjPaNy2yG9-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-48" value="图像编码 、特征封装" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="720" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-49" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;发送HTTP 请求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-49" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;定时保存&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;到本地文件&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="780" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-57" value="检查特征&lt;div&gt;是否重复&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="610" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

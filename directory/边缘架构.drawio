@@ -584,21 +584,38 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wzHhhBmqGszyK4a_qoyW" name="系统工作流">
-    <mxGraphModel dx="839" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="540" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TgprONmWAbJZnroP1Lx3-1" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="720" width="80" height="40" as="geometry" />
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="TgprONmWAbJZnroP1Lx3-1" target="TgprONmWAbJZnroP1Lx3-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgprONmWAbJZnroP1Lx3-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="800" as="sourcePoint" />
-            <mxPoint x="160" y="400" as="targetPoint" />
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-5" value="&lt;div&gt;curl&lt;/div&gt;video_path" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontSize=12;labelPosition=center;verticalLabelPosition=top;" vertex="1" connectable="0" parent="T2TVqLmSkBjjPaNy2yG9-4">
+          <mxGeometry x="-0.3429" y="2" relative="1" as="geometry">
+            <mxPoint x="7" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgprONmWAbJZnroP1Lx3-3" value="移动检测服务&lt;div&gt;/motion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="440" width="80" height="40" as="geometry" />
+        <mxCell id="TgprONmWAbJZnroP1Lx3-1" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="545" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TgprONmWAbJZnroP1Lx3-3" value="&lt;div&gt;/motion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="545" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6eEmnkfLu2hcqiRp9-ep-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#FFFFFF;strokeColor=#330000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" vertex="1" parent="1">
+          <mxGeometry x="10" y="670" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6eEmnkfLu2hcqiRp9-ep-1" target="TgprONmWAbJZnroP1Lx3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="610" as="sourcePoint" />
+            <mxPoint x="220" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-3" value="移动检测服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-8" value="&lt;div&gt;/motion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

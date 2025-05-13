@@ -605,7 +605,7 @@
             <mxPoint x="7" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgprONmWAbJZnroP1Lx3-1" value="&lt;div&gt;curl&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TgprONmWAbJZnroP1Lx3-1" value="&lt;div&gt;发送curl请求&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="TgprONmWAbJZnroP1Lx3-3" target="T2TVqLmSkBjjPaNy2yG9-9">
@@ -647,7 +647,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-12" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;HTTP 请求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-34" value="图像&lt;div&gt;时间戳&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="T2TVqLmSkBjjPaNy2yG9-19">
+          <mxGeometry x="0.6938" y="2" relative="1" as="geometry">
+            <mxPoint x="-18" y="92" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-12" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;发送HTTP 请求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-17" target="T2TVqLmSkBjjPaNy2yG9-23">
@@ -672,7 +677,10 @@
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-21" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;打包&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;帧图像&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;和时间戳&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="660" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-23" value="&lt;div&gt;&lt;b&gt;YOLOv8&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-23" target="T2TVqLmSkBjjPaNy2yG9-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-23" value="&lt;div&gt;YOLOv8&lt;/div&gt;&lt;div&gt;检测行人&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashed=1;" edge="1" parent="1">
@@ -692,6 +700,9 @@
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-30" value="控制流" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-32" value="OSNet提取特征向量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="660" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

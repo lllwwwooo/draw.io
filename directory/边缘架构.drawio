@@ -638,6 +638,9 @@
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-12" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;HTTP 请求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="730" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-17" target="T2TVqLmSkBjjPaNy2yG9-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-17" value="&lt;div&gt;&lt;b&gt;/detect&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="540" width="80" height="40" as="geometry" />
         </mxCell>
@@ -649,6 +652,9 @@
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-21" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;打包&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;帧图像&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;和时间戳&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="660" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-23" value="&lt;div&gt;&lt;b&gt;YOLOv8&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

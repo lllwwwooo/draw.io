@@ -843,17 +843,11 @@
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-82" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="30" y="880" width="120" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-83" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;video_path&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="189.3809523809523" y="950" as="geometry" />
-        </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-84" value="前端界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="940" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-85" value="状态码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210.95238095238096" y="969" as="geometry" />
-        </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-86" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#FFFFFF;strokeColor=#330000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1090" width="60" height="50" as="geometry" />
+          <mxGeometry x="60" y="1070" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-87" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-86" target="T2TVqLmSkBjjPaNy2yG9-84">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

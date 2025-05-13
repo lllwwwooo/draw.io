@@ -584,10 +584,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wzHhhBmqGszyK4a_qoyW" name="系统工作流">
-    <mxGraphModel dx="1168" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1203" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-39" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="120" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-16" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="120" height="360" as="geometry" />
         </mxCell>
@@ -649,7 +652,7 @@
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-34" value="帧图像和&lt;div&gt;时间戳&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="T2TVqLmSkBjjPaNy2yG9-19">
           <mxGeometry x="0.6938" y="2" relative="1" as="geometry">
-            <mxPoint x="-57" y="92" as="offset" />
+            <mxPoint x="-39" y="82" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-12" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;发送HTTP 请求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -663,6 +666,11 @@
             <Array as="points">
               <mxPoint x="310" y="660" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-53" value="状态码&lt;div&gt;JSON 响应&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="T2TVqLmSkBjjPaNy2yG9-31">
+          <mxGeometry x="-0.2117" relative="1" as="geometry">
+            <mxPoint x="20" y="33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-17" value="&lt;div&gt;&lt;b&gt;/detect&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -713,16 +721,37 @@
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-35" value="图像编码 、特征封装" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="720" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-50" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-36" target="T2TVqLmSkBjjPaNy2yG9-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-52" value="图像&lt;div&gt;特征向量&lt;/div&gt;&lt;div&gt;设备ID&lt;/div&gt;&lt;div&gt;时间戳&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="T2TVqLmSkBjjPaNy2yG9-50">
+          <mxGeometry x="0.1117" y="1" relative="1" as="geometry">
+            <mxPoint x="-29" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-36" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;发送HTTP 请求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="780" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-39" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="600" y="480" width="120" height="360" as="geometry" />
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-41" target="T2TVqLmSkBjjPaNy2yG9-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T2TVqLmSkBjjPaNy2yG9-41" value="&lt;div&gt;&lt;b&gt;/detect&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-54" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-41" target="T2TVqLmSkBjjPaNy2yG9-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-55" value="状态码&lt;div&gt;JSON 响应&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="T2TVqLmSkBjjPaNy2yG9-54">
+          <mxGeometry x="-0.27" y="-1" relative="1" as="geometry">
+            <mxPoint x="21" y="84" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2TVqLmSkBjjPaNy2yG9-41" value="&lt;b&gt;/receive&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-42" value="图像保存服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

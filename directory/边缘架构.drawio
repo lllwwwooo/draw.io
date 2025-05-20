@@ -513,7 +513,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EiCgVay26oe4I9YYXg7P" name="系统总体框架">
-    <mxGraphModel dx="601" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="914" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -584,7 +584,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wzHhhBmqGszyK4a_qoyW" name="系统工作流">
-    <mxGraphModel dx="2133" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1741" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -643,7 +643,7 @@
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="T2TVqLmSkBjjPaNy2yG9-9" target="T2TVqLmSkBjjPaNy2yG9-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-6" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T2TVqLmSkBjjPaNy2yG9-15">
+        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-6" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T2TVqLmSkBjjPaNy2yG9-15" vertex="1" connectable="0">
           <mxGeometry x="-0.0667" y="-2" relative="1" as="geometry">
             <mxPoint x="-8" y="-4" as="offset" />
           </mxGeometry>
@@ -741,10 +741,10 @@
             <mxPoint x="-29" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-36" target="eZ0J7lO-AiXJ7kFWWbQt-7">
+        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="T2TVqLmSkBjjPaNy2yG9-36" target="eZ0J7lO-AiXJ7kFWWbQt-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-16" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;图像&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;设备&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;ID&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;时间戳&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;特征向量&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eZ0J7lO-AiXJ7kFWWbQt-8">
+        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-16" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;图像&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;设备&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;ID&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;时间戳&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;特征向量&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eZ0J7lO-AiXJ7kFWWbQt-8" vertex="1" connectable="0">
           <mxGeometry x="0.2206" y="3" relative="1" as="geometry">
             <mxPoint x="-23" y="36" as="offset" />
           </mxGeometry>
@@ -769,7 +769,7 @@
             <mxPoint x="-19" y="136" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T2TVqLmSkBjjPaNy2yG9-41" target="eZ0J7lO-AiXJ7kFWWbQt-10">
+        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T2TVqLmSkBjjPaNy2yG9-41" target="eZ0J7lO-AiXJ7kFWWbQt-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-41" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;/receive&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -783,7 +783,7 @@
             <mxPoint x="660" y="640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T2TVqLmSkBjjPaNy2yG9-43">
+        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="T2TVqLmSkBjjPaNy2yG9-43" vertex="1" connectable="0">
           <mxGeometry x="-0.4884" y="2" relative="1" as="geometry">
             <mxPoint x="-12" y="-4" as="offset" />
           </mxGeometry>
@@ -894,7 +894,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-84" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;前端界面&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;发送行人描述&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;得到结果并展示&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="55" y="920" width="90" height="100" as="geometry" />
+          <mxGeometry x="55" y="910" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-87" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="K6i9phChEAAy0Y7RuBIB-6" target="T2TVqLmSkBjjPaNy2yG9-84" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -917,18 +917,18 @@
         <mxCell id="K6i9phChEAAy0Y7RuBIB-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" parent="1" vertex="1">
           <mxGeometry x="70" y="1170" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="eZ0J7lO-AiXJ7kFWWbQt-7" target="eZ0J7lO-AiXJ7kFWWbQt-10">
+        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="eZ0J7lO-AiXJ7kFWWbQt-7" target="eZ0J7lO-AiXJ7kFWWbQt-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-19" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;图像&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;设备&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ID&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;时间戳&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;特征向量&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eZ0J7lO-AiXJ7kFWWbQt-17">
+        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-19" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;图像&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;设备&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ID&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;时间戳&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;特征向量&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eZ0J7lO-AiXJ7kFWWbQt-17" vertex="1" connectable="0">
           <mxGeometry x="-0.6166" y="3" relative="1" as="geometry">
             <mxPoint x="13" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-7" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Kafka&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;pedestrian_images&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-7" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Kafka&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;pedestrian_images&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="960" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-10" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;消费者&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;接收消息&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eZ0J7lO-AiXJ7kFWWbQt-10" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;消费者&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;接收消息&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="600" width="80" height="30" as="geometry" />
         </mxCell>
       </root>

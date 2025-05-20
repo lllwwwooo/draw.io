@@ -894,7 +894,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-84" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;前端界面&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;发送行人描述&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;得到结果并展示&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="55" y="910" width="90" height="100" as="geometry" />
+          <mxGeometry x="55" y="905" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="T2TVqLmSkBjjPaNy2yG9-87" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="K6i9phChEAAy0Y7RuBIB-6" target="T2TVqLmSkBjjPaNy2yG9-84" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

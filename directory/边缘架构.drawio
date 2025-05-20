@@ -966,13 +966,13 @@
         <mxCell id="Gi2a6ER0CN0jnyhuWcWr-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;OSNet&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;特征提取&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="315" y="450" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Gi2a6ER0CN0jnyhuWcWr-12" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;数据支持层" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#E8E2E6;strokeColor=#330000;" parent="1" vertex="1">
+        <mxCell id="Gi2a6ER0CN0jnyhuWcWr-12" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;数据支持层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#E8E2E6;strokeColor=#330000;" parent="1" vertex="1">
           <mxGeometry x="80" y="525" width="520" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gi2a6ER0CN0jnyhuWcWr-13" value="&lt;font&gt;Apache Kafka&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="Gi2a6ER0CN0jnyhuWcWr-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Apache Kafka&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="180" y="535" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Gi2a6ER0CN0jnyhuWcWr-14" value="本地文件系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="Gi2a6ER0CN0jnyhuWcWr-14" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;本地文件系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="315" y="535" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gi2a6ER0CN0jnyhuWcWr-15" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;边缘调度层" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#DAD7CD;strokeColor=#4D4D4D;" parent="1" vertex="1">
@@ -1017,7 +1017,7 @@
         <mxCell id="Gi2a6ER0CN0jnyhuWcWr-29" value="Docker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="500" y="620" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WwCDRCjw2vwgPLJCmw7Q-2" value="&lt;font&gt;NFS网络文件协议&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="WwCDRCjw2vwgPLJCmw7Q-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;NFS&lt;/font&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;网络文件协议&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="460" y="535" width="120" height="40" as="geometry" />
         </mxCell>
       </root>

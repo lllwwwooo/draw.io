@@ -16,16 +16,16 @@
         <mxCell id="XKiLcq2Avilo9yYhWQPy-65" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;strokeColor=#004C99;" parent="1" vertex="1">
           <mxGeometry x="-1511" y="350" width="457.5" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="XKiLcq2Avilo9yYhWQPy-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;b&gt;中心云&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XKiLcq2Avilo9yYhWQPy-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;中心云&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1820" y="500" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XKiLcq2Avilo9yYhWQPy-27" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#FFFFFF;strokeColor=#330000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" parent="1" vertex="1">
           <mxGeometry x="-1650" y="920" width="100" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="XKiLcq2Avilo9yYhWQPy-60" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;边缘节点&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XKiLcq2Avilo9yYhWQPy-60" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;边缘节点&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1820" y="715" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XKiLcq2Avilo9yYhWQPy-61" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;边缘设备&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XKiLcq2Avilo9yYhWQPy-61" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;边缘设备&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1820" y="948.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XKiLcq2Avilo9yYhWQPy-66" value="" style="group" parent="1" vertex="1" connectable="0">

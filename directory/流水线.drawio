@@ -1806,6 +1806,9 @@
         <mxCell id="V4d6F1ccgwOas6d38mok-106" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="V4d6F1ccgwOas6d38mok-104" target="V4d6F1ccgwOas6d38mok-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vQf5a-WNya0LoDkrr-0b-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQf5a-WNya0LoDkrr-0b-1" target="vQf5a-WNya0LoDkrr-0b-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vQf5a-WNya0LoDkrr-0b-1" value="Commit logic" style="rounded=1;whiteSpace=wrap;html=1;arcSize=32;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1305" width="60" height="30" as="geometry" />
         </mxCell>
@@ -1826,6 +1829,9 @@
         </mxCell>
         <mxCell id="vQf5a-WNya0LoDkrr-0b-7" value="提交&lt;div&gt;CM&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1400" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vQf5a-WNya0LoDkrr-0b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V4d6F1ccgwOas6d38mok-72" target="vQf5a-WNya0LoDkrr-0b-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

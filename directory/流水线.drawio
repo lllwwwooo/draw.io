@@ -1413,7 +1413,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lFrxi4bXQztLZezpDt3v-117" value="D-cache" style="rounded=1;whiteSpace=wrap;html=1;arcSize=32;" parent="1" vertex="1">
-          <mxGeometry x="760.01" y="830" width="60" height="30" as="geometry" />
+          <mxGeometry x="700" y="835" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lFrxi4bXQztLZezpDt3v-122" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="900" y="825" width="10" height="40" as="geometry" />

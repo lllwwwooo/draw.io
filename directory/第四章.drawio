@@ -2626,6 +2626,54 @@
         <mxCell id="yk5JzY27aI77iMmWa60M-18" value="SIMM插槽7" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="400" y="211.25" width="120" height="17.5" as="geometry" />
         </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-20" value="DRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="330" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-21" value="DRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-22" value="DRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="191.25" y="330" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-23" value="DRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="191.25" y="360" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-24" value="......" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="325" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-25" value="......" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="355" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-26" value="DRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="330" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-27" value="DRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="360" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-28" value="DRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="330" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-29" value="DRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="360" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yk5JzY27aI77iMmWa60M-19" target="yk5JzY27aI77iMmWa60M-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-31" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yk5JzY27aI77iMmWa60M-19" target="yk5JzY27aI77iMmWa60M-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-32" value="DRAM SIMM内存条" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="191.25" y="290" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

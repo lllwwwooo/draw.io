@@ -2155,7 +2155,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O3PZxE05Akpw4durL-7E-1" value="片号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="580" width="80" height="20" as="geometry" />
+          <mxGeometry x="80" y="580" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O3PZxE05Akpw4durL-7E-2" value="行地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="580" width="80" height="20" as="geometry" />
@@ -2164,7 +2164,7 @@
           <mxGeometry x="215" y="580" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O3PZxE05Akpw4durL-7E-4" value="A&lt;sub&gt;20&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="550" width="40" height="30" as="geometry" />
+          <mxGeometry x="70" y="550" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O3PZxE05Akpw4durL-7E-5" value="A&lt;sub&gt;18&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="550" width="40" height="30" as="geometry" />

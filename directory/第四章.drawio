@@ -841,7 +841,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ootyhXoxKaPynkGdVi_l" name="4-7">
-    <mxGraphModel dx="483" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1246,6 +1246,30 @@
         </mxCell>
         <mxCell id="IT0Fg1SMLK6X6t18QGNK-86" value="地址线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="458" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IT0Fg1SMLK6X6t18QGNK-87" value="X地址译码驱动器" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="130" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IT0Fg1SMLK6X6t18QGNK-88" value="X地址寄存器" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="130" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IT0Fg1SMLK6X6t18QGNK-89" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="209.5" as="sourcePoint" />
+            <mxPoint x="-30" y="209.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IT0Fg1SMLK6X6t18QGNK-90" value="地址线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="228" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IT0Fg1SMLK6X6t18QGNK-91" value="字线&lt;div&gt;&lt;sub&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;X&lt;/span&gt;0&lt;/sub&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="120" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IT0Fg1SMLK6X6t18QGNK-92" value="字线&lt;div&gt;&lt;sub style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;X&lt;/span&gt;1&lt;/sub&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="160" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IT0Fg1SMLK6X6t18QGNK-95" value="字线&lt;div&gt;&lt;sub style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;X&lt;/span&gt;m-1&lt;/sub&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="240" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

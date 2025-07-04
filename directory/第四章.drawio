@@ -440,9 +440,6 @@
         <mxCell id="gKMuTeVmUMlu6gt50n0R-51" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="350" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gKMuTeVmUMlu6gt50n0R-53" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.testPoint;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="354" y="455" width="60" height="130" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

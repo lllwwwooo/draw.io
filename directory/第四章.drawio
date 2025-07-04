@@ -1232,6 +1232,21 @@
         <mxCell id="IT0Fg1SMLK6X6t18QGNK-81" value="字线&lt;div&gt;y&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;m-1&lt;/sub&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="360" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="IT0Fg1SMLK6X6t18QGNK-82" value="Y地址译码驱动器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="400" width="450" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IT0Fg1SMLK6X6t18QGNK-83" value="Y地址寄存器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="450" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IT0Fg1SMLK6X6t18QGNK-85" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="IT0Fg1SMLK6X6t18QGNK-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="490" as="sourcePoint" />
+            <mxPoint x="270" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IT0Fg1SMLK6X6t18QGNK-86" value="地址线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="458" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

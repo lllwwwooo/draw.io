@@ -2557,6 +2557,75 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yk5JzY27aI77iMmWa60M-1" value="存储控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-2" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yk5JzY27aI77iMmWa60M-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="200" y="430" as="sourcePoint" />
+            <mxPoint x="240" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-3" value="存储器总线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="188" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=6;" edge="1" parent="1" source="yk5JzY27aI77iMmWa60M-4" target="yk5JzY27aI77iMmWa60M-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-4" value="SIMM插槽0" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="191.25" y="211.25" width="120" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-5" value="SIMM插槽1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="220" y="211.25" width="120" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=6;" edge="1" parent="1" target="yk5JzY27aI77iMmWa60M-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-8" value="SIMM插槽2" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="250" y="211.25" width="120" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=6;" edge="1" parent="1" target="yk5JzY27aI77iMmWa60M-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-10" value="SIMM插槽3" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="280" y="211.25" width="120" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=6;" edge="1" parent="1" target="yk5JzY27aI77iMmWa60M-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-12" value="SIMM插槽4" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="310" y="211.25" width="120" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=6;" edge="1" parent="1" target="yk5JzY27aI77iMmWa60M-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-14" value="SIMM插槽5" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="340" y="211.25" width="120" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=6;" edge="1" parent="1" target="yk5JzY27aI77iMmWa60M-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-16" value="SIMM插槽6" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="370" y="211.25" width="120" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=6;" edge="1" parent="1" target="yk5JzY27aI77iMmWa60M-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yk5JzY27aI77iMmWa60M-18" value="SIMM插槽7" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="400" y="211.25" width="120" height="17.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

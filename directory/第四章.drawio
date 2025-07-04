@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0" pages="8">
   <diagram name="4-1" id="I6aplZ_FXBZ0MlfXEpN3">
     <mxGraphModel dx="1803" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1708,6 +1708,29 @@
         </mxCell>
         <mxCell id="wzQlCxFDIltBYML9NzF7-1" value="（b）逻辑结构图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="715" y="658" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AA1huqPs9v5ntrAsaUoM" name="4-9">
+    <mxGraphModel dx="483" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7yhnkaB5aXFd4z1mhHr--1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="85" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7yhnkaB5aXFd4z1mhHr--2" value="A&lt;sub&gt;20-0&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7yhnkaB5aXFd4z1mhHr--1">
+          <mxGeometry x="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7yhnkaB5aXFd4z1mhHr--3" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;CPU&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7yhnkaB5aXFd4z1mhHr--1">
+          <mxGeometry x="10" y="80" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7yhnkaB5aXFd4z1mhHr--4" value="R/W#" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7yhnkaB5aXFd4z1mhHr--1">
+          <mxGeometry x="30" y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7yhnkaB5aXFd4z1mhHr--5" value="D&lt;sub&gt;63&lt;/sub&gt;~D&lt;sub&gt;0&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7yhnkaB5aXFd4z1mhHr--1">
+          <mxGeometry x="25" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

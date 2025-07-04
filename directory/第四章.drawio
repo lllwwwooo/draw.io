@@ -1588,6 +1588,15 @@
         <mxCell id="BSrFli9UPcQD-2ZrSbCe-38" value="&lt;b&gt;...&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="850" y="453.75" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BSrFli9UPcQD-2ZrSbCe-40" value="列译码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="545" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="BSrFli9UPcQD-2ZrSbCe-41" value="数据输入缓冲器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="490" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="BSrFli9UPcQD-2ZrSbCe-42" value="数据输出缓冲器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="545" width="110" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

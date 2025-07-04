@@ -1223,6 +1223,15 @@
         <mxCell id="IT0Fg1SMLK6X6t18QGNK-78" value="数据线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="338" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IT0Fg1SMLK6X6t18QGNK-79" value="字线&lt;div&gt;y&lt;sub&gt;0&lt;/sub&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="358" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IT0Fg1SMLK6X6t18QGNK-80" value="字线&lt;div&gt;y&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="363" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IT0Fg1SMLK6X6t18QGNK-81" value="字线&lt;div&gt;y&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;m-1&lt;/sub&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="50" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

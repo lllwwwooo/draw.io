@@ -1702,7 +1702,7 @@
             <mxPoint x="20" y="319" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zL0uYgbLQVpFobuITexv-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zL0uYgbLQVpFobuITexv-17" target="zL0uYgbLQVpFobuITexv-31">
+        <mxCell id="zL0uYgbLQVpFobuITexv-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zL0uYgbLQVpFobuITexv-17" target="zL0uYgbLQVpFobuITexv-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="60" y="368" />

@@ -1446,6 +1446,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Q-hg5kAuq50Dwl1mlaTX-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="230" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="Q-hg5kAuq50Dwl1mlaTX-1" value="数据寄存器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="80" height="20" as="geometry" />
         </mxCell>
@@ -1462,6 +1465,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="335" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Q-hg5kAuq50Dwl1mlaTX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Q-hg5kAuq50Dwl1mlaTX-4" target="Q-hg5kAuq50Dwl1mlaTX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-hg5kAuq50Dwl1mlaTX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Q-hg5kAuq50Dwl1mlaTX-4" target="Q-hg5kAuq50Dwl1mlaTX-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q-hg5kAuq50Dwl1mlaTX-4" value="总线接口逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="80" height="60" as="geometry" />
@@ -1486,6 +1495,31 @@
         </mxCell>
         <mxCell id="Q-hg5kAuq50Dwl1mlaTX-12" value="数据信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="255" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-hg5kAuq50Dwl1mlaTX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Q-hg5kAuq50Dwl1mlaTX-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q-hg5kAuq50Dwl1mlaTX-14" value="外部设备接口逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-hg5kAuq50Dwl1mlaTX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="Q-hg5kAuq50Dwl1mlaTX-16" target="Q-hg5kAuq50Dwl1mlaTX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-hg5kAuq50Dwl1mlaTX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Q-hg5kAuq50Dwl1mlaTX-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q-hg5kAuq50Dwl1mlaTX-16" value="外部设备接口逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-hg5kAuq50Dwl1mlaTX-23" value="设备接口信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-hg5kAuq50Dwl1mlaTX-24" value="设备接口信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="335" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

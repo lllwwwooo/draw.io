@@ -148,7 +148,7 @@
         <mxCell id="G63BqGhJhZM1N8CtBDAp-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Experimental data format conversion&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="160" x="2362" y="617.5" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-9" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" value="" vertex="1">
+        <mxCell id="60da8b9f42644d3a-9" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=3;fontSize=27;strokeColor=none;fillColor=#fff2cc;" value="" vertex="1">
           <mxGeometry height="65" width="95" x="545" y="522.5" as="geometry" />
         </mxCell>
         <mxCell id="G63BqGhJhZM1N8CtBDAp-71" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" value="" vertex="1">
